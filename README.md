@@ -1,2 +1,8 @@
 # missioncoffee.github.io
-Landing page for Mission Coffee
+##Edit Text
+
+###Home Page
+Edit the index.html file.
+
+###Mission Page
+Edit the mission.html file
