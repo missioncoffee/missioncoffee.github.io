@@ -1,5 +1,6 @@
 # missioncoffee.github.io
-##Edit Text
+
+## Edit Text
 
 ### Home Page
 Edit the index.html file.
