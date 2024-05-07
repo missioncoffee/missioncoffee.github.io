@@ -1,8 +1,9 @@
 # missioncoffee.github.io
-##Edit Text
 
-###Home Page
+## Edit Text
+
+### Home Page
 Edit the index.html file.
 
-###Mission Page
+### Mission Page
 Edit the mission.html file
