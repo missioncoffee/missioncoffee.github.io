@@ -144,6 +144,16 @@ ul{
 }
 
 
+.wa-container {
+    text-align: center;
+    margin-top: 30px;
+}
+.wa-container img{
+    width: 250px;
+    max-width: 100%;
+}
+
+
 
 @media only screen and (min-width: 840px) {
    
